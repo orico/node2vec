@@ -1,4 +1,4 @@
-# node2vec
+# node2vec for python 3.6.4
 
 This repository provides a reference implementation of *node2vec* as described in the paper:<br>
 > node2vec: Scalable Feature Learning for Networks.<br>
